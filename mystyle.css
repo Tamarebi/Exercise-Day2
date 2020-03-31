@@ -1,0 +1,52 @@
+    .menu{
+    display:inline;
+    margin-left: 50px;
+    background: white;
+    padding: 15px;
+    } 
+    p{
+    background: white;
+    height: 500px;
+    padding: 10px;
+    }
+    
+     
+footer{
+color: orange;
+background:black;
+height: 30px;
+padding: 20px;
+text-align: center;
+}
+body {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+overflow-x: hidden;
+
+}
+div{
+color: black;
+background:white;
+height: 50px;
+padding: 0px;
+text-align: center;
+}
+form{
+    background: #ffffff;
+    color: #ffffff;
+    border-radius:3px;
+    line-height: 2.5;
+    font-size: 15px;
+    width: 50%;
+    padding: 2.5rem;
+    }
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #CCC;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin: 6px 0px 16px 0px;
+    resize:vertical;
+}
